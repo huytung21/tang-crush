@@ -12,4 +12,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Hẹn em iu khi nào ra Hà Nội nhó <3',
     btnAccept: 'Okiiiii lun <3',
+messLink: 'http://fb.com' //huytung2107
     
