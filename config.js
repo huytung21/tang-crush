@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Em iu à!',
-    introDesc: `Anh vẫn còn nhớ như in ngày đó, cái ngày anh bị cướp đi một thứ rất quan trọng trong cuộc đời. Chính em đã lấy đi trái tim nguội lạnh của anh và cám ơn em đã sưởi ấm để nó lại tiếp tục loạn nhịp,
+    introDesc: `Với thế giới, em chỉ là một ai đó. Nhưng với anh, em là cả thế giới, thế giới tươi đẹp và rực rỡ.,
     btnIntro: 'hihi',
     title: '6 tháng không phải là thời gian quá dài, nhưng cũng đủ để anh nhận rõ tình cảm của bản thân. Anh yêu em',
     desc: 'Em có iu anh hong? ',
