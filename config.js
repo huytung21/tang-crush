@@ -5,7 +5,7 @@ const CONFIG = {
     title: '6 tháng không phải là thời gian quá dài, nhưng cũng đủ để anh nhận rõ tình cảm của bản thân. Anh yêu em',
     desc: 'Em có iu anh hong? ',
     btnYes: 'Vẫn cứ là iu anh <33',
-    btnNo: 'Không, Anh trai à :)',
+    btnNo: 'Không, Anh à :)',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
