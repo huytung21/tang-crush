@@ -1,6 +1,9 @@
 const CONFIG = {
     introTitle: 'Em iu à!',
-    introDesc: `Với thế giới, em chỉ là một ai đó. Nhưng với anh, em là cả thế giới, thế giới tươi đẹp và rực rỡ,
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương,
     btnIntro: 'hihi',
     title: '6 tháng không phải là thời gian quá dài, nhưng cũng đủ để anh nhận rõ tình cảm của bản thân. Anh yêu em',
     desc: 'Em có iu anh hong? ',
@@ -12,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Hẹn em iu khi nào ra Hà Nội nhó <3',
     btnAccept: 'Okiiiii lun <3',
-messLink: 'http://fb.com' //huytung2107
+    messLink: 'http://fb.com' //https://www.facebook.com/huytung2107/
     
